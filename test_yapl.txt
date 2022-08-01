@@ -5,10 +5,10 @@
 Program Fibonacci
 
 int hola
-string h
-bool qf = true
+String h
+bool qf = True
 
-Procedure int fib(int k)
+Procedure int fib(int k, String i)
 Begin
     If k < 2 Then
         Return k;
